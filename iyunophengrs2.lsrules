@@ -1,0 +1,54 @@
+{
+  "description" : "",
+  "name" : "iyunophengrsJJ",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1585638571.0294991,
+      "modificationDate" : 1585638571.0294991,
+      "owner" : "me",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1585638591.875191,
+      "modificationDate" : 1585638591.875191,
+      "owner" : "me",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1585638501.693795,
+      "modificationDate" : 1585638501.693795,
+      "owner" : "me",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1585638562.511636,
+      "modificationDate" : 1585638562.511636,
+      "owner" : "me",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1585638600.0312769,
+      "modificationDate" : 1585638600.0312769,
+      "owner" : "me",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1585638633.1936121,
+      "modificationDate" : 1585638633.1936121,
+      "owner" : "me",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote" : "any"
+    }
+  ]
+}
