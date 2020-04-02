@@ -69,7 +69,7 @@
 "owner" : "me",
 "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
 "remote" : "any"
-}
+},
     {
       "action" : "deny",
       "creationDate" : 1585638600.0312769,
