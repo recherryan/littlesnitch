@@ -19,21 +19,57 @@
       "remote" : "any"
     },
     {
-      "action" : "deny",
-      "creationDate" : 1585638501.693795,
-      "modificationDate" : 1585638501.693795,
-      "owner" : "me",
-      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1585638562.511636,
-      "modificationDate" : 1585638562.511636,
-      "owner" : "me",
-      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
-      "remote" : "any"
-    },
+"action" : "allow",
+"creationDate" : 1585725616.112113,
+"direction" : "incoming",
+"modificationDate" : 1585725616.112113,
+"owner" : "me",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote" : "any"
+},
+{
+"action" : "allow",
+"creationDate" : 1585726085.6781101,
+"modificationDate" : 1585726085.6781101,
+"owner" : "me",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote-domains" : "googleapis.com",
+"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/80.0.3987.162\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper"
+},
+{
+"action" : "allow",
+"creationDate" : 1585726092.155067,
+"modificationDate" : 1585726092.155067,
+"owner" : "me",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote-domains" : "googleusercontent.com",
+"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/80.0.3987.162\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper"
+},
+{
+"action" : "allow",
+"creationDate" : 1585726088.8049932,
+"modificationDate" : 1585726088.8049932,
+"owner" : "me",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote-domains" : "gstatic.com",
+"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/80.0.3987.162\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper"
+},
+{
+"action" : "allow",
+"creationDate" : 1585725543.036247,
+"modificationDate" : 1585725543.036247,
+"owner" : "me",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote-domains" : "google.com"
+},
+{
+"action" : "deny",
+"creationDate" : 1585725667.954566,
+"modificationDate" : 1585725667.954566,
+"owner" : "me",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote" : "any"
+}
     {
       "action" : "deny",
       "creationDate" : 1585638600.0312769,
