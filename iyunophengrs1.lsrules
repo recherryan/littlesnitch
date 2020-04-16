@@ -1,52 +1,84 @@
 {
   "description" : "",
-  "name" : "iyunophengrs",
+  "name" : "iyunophengrsJJ",
   "rules" : [
     {
       "action" : "deny",
-      "creationDate" : 1585634909.0271668,
-      "modificationDate" : 1585634909.0271668,
+      "creationDate" : 1585638571.0294991,
+      "modificationDate" : 1585638571.0294991,
       "owner" : "me",
       "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
       "remote" : "any"
     },
     {
       "action" : "deny",
-      "creationDate" : 1585634888.791539,
-      "modificationDate" : 1585634888.791539,
+      "creationDate" : 1585638591.875191,
+      "modificationDate" : 1585638591.875191,
       "owner" : "me",
       "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
       "remote" : "any"
     },
     {
-      "action" : "deny",
-      "creationDate" : 1585634827.1976252,
-      "direction" : "incoming",
-      "modificationDate" : 1585634827.1976252,
-      "owner" : "me",
-      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
-      "remote" : "any"
-    },
+"action" : "allow",
+"creationDate" : 1585807088.8184109,
+"direction" : "incoming",
+"modificationDate" : 1585807088.8184109,
+"owner" : "any",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote" : "any"
+},
+{
+"action" : "allow",
+"creationDate" : 1585807536.04422,
+"modificationDate" : 1585807536.04422,
+"owner" : "me",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote-domains" : "gstatic.com"
+},
+{
+"action" : "allow",
+"creationDate" : 1585807536.04422,
+"modificationDate" : 1585807536.04422,
+"owner" : "me",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote-domains" : "googleusercontent.com"
+},
+{
+"action" : "allow",
+"creationDate" : 1585807088.8184109,
+"modificationDate" : 1585807088.8184109,
+"owner" : "any",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote-domains" : "google.com"
+},
+{
+"action" : "allow",
+"creationDate" : 1585807587.1623101,
+"modificationDate" : 1585807619.938216,
+"owner" : "any",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote-domains" : "googleapis.com"
+},
+{
+"action" : "deny",
+"creationDate" : 1585807088.8184109,
+"modificationDate" : 1585807088.8184109,
+"owner" : "any",
+"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+"remote" : "any"
+},
     {
       "action" : "deny",
-      "creationDate" : 1585634685.2967839,
-      "modificationDate" : 1585634685.2967839,
-      "owner" : "me",
-      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
-      "remote" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1585634928.3148952,
-      "modificationDate" : 1585634928.3148952,
+      "creationDate" : 1585638600.0312769,
+      "modificationDate" : 1585638600.0312769,
       "owner" : "me",
       "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
       "remote" : "any"
     },
     {
       "action" : "deny",
-      "creationDate" : 1585634981.6309741,
-      "modificationDate" : 1585634981.6309741,
+      "creationDate" : 1585638633.1936121,
+      "modificationDate" : 1585638633.1936121,
       "owner" : "me",
       "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
       "remote" : "any"
