@@ -1,0 +1,57 @@
+{
+  "description" : "",
+  "name" : "iyunophmarco",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1603091651.6425071,
+      "direction" : "incoming",
+      "modificationDate" : 1603091651.6425071,
+      "owner" : "me",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1603091623.702888,
+      "modificationDate" : 1603091623.702888,
+      "owner" : "me",
+      "process" : "\/Applications\/App Store.app\/Contents\/MacOS\/App Store",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1603091521.6002278,
+      "direction" : "incoming",
+      "modificationDate" : 1603091521.6002278,
+      "owner" : "me",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1603091415.3355951,
+      "modificationDate" : 1603091415.3355951,
+      "owner" : "me",
+      "process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1603091598.711339,
+      "direction" : "incoming",
+      "modificationDate" : 1603091598.711339,
+      "owner" : "me",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1603091561.245661,
+      "modificationDate" : 1603091561.245661,
+      "owner" : "me",
+      "process" : "\/Applications\/Safari.app\/Contents\/MacOS\/Safari",
+      "remote" : "any"
+    }
+  ]
+}
